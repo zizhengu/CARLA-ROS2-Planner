@@ -40,13 +40,19 @@ ros2 launch carla_ad_demo carla_ad_demo.launch.py
 
 ## 参考链接
 [Ubuntu20.04安装Carla](https://blog.csdn.net/m0_61772308/article/details/131590593#:~:text=%E8%AF%A5%E6%96%87%E4%BB%B6%E8%AE%B0%E5%BD%95Ubunt)
+
 [Windows从源码编译Carla0.9.13](https://zhuanlan.zhihu.com/p/668593156#:~:text=%E6%9C%AC%E6%96%87%E4%BB%8B%E7%BB%8D%E4%BA%86%E5%A6%82%E4%BD%95%E5%9C%A8Wi)
+
 [ROS Bridge for ROS 2](https://carla.readthedocs.io/projects/ros-bridge/en/latest/ros_installation_ros2/#:~:text=Learn%20how%20to%20install%20the%20ROS%20bridge%20on%20Linux%20for)
+
 [WSL2 && carla-win11跨系统通讯](https://blog.csdn.net/steven_ysh/article/details/125994191#:~:text=%E6%96%87%E7%AB%A0%E6%B5%8F%E8%A7%88%E9%98%85%E8%AF%BB2.6k)
+
 [二次规划osqp库](https://blog.csdn.net/qjj18776858511/article/details/125963379)
 
 ## 致谢
 感谢B站UP主忠厚老实的老王关于自动驾驶决策规划[系列课程](https://space.bilibili.com/287989852)
+
 感谢项目原作者的无私[开源](https://github.com/GoGoGo13579/Planning-and-Control-based-on-Carla-and-ROS2)
+
 感谢本项目用到所有开源系统、框架、求解库的作者
 
